@@ -13,7 +13,7 @@
 
 	if (!empty($name)) {
 		//Para insertar datos en la base de datos
-		$conexion = new mysqli("localhost","root","","dbempresys");
+		$conexion = new mysqli("localhost","root","","dbcustomer");
 
 		$sql = "INSERT INTO customer (name,address,phonenum,email)
 			VALUES ('$name','$address','$phone', '$email')";

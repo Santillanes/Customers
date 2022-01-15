@@ -1,6 +1,6 @@
 <?php 
 
-	$conexion = new mysqli("localhost","root","","dbempresys");
+	$conexion = new mysqli("localhost","root","","dbcustomer");
 	$sql="SELECT * FROM customer";
 	$resultado = mysqli_query($conexion,$sql);
 	

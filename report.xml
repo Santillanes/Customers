@@ -105,4 +105,11 @@
     <phonenum>6141127883</phonenum>
     <email>alan.serna@gmail.com</email>
   </Customer>
+  <Customer>
+    <idcustomer>16</idcustomer>
+    <name>Roberto Valdez</name>
+    <address>Calle 12 Oriente #191</address>
+    <phonenum>6141109873</phonenum>
+    <email>roberto.valdez@gmail.com</email>
+  </Customer>
 </customers>

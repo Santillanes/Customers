@@ -18,8 +18,7 @@
 		$sql = "INSERT INTO customer (name,address,phonenum,email)
 			VALUES ('$name','$address','$phone', '$email')";
 		
-		//$resultado = mysqli_query($conexion,$sql);
-
+		$resultado = mysqli_query($conexion,$sql);
 
 		//$customer -> insertar($name, $address, $phone, $email);
 

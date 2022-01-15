@@ -1,7 +1,7 @@
 
 
     <div class="container my-5">
-      <h1 class="mb-3">Data details</h1>
+      <h1 class="mb-3">Customers details</h1>
 
     <?php
       require_once "conexion.php";

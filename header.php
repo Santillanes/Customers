@@ -22,7 +22,7 @@
         <div class="col-sm-4"><button class="btn btn-primary" style="width: 200px;" name="update">Update</button></div>
         <div class="col-sm-4"><button class="btn btn-primary" style="width: 200px;" name="download">Download XML</button></div>
         <!-- Modal para guardar un dato en la tabla -->
-        <div class="col-sm-4"><button type="button" class="btn btn-primary" style="width: 200px;" data-toggle="modal" data-target="#dialogo1" name="modal">Modal</button></div>
+        <div class="col-sm-4"><button type="button" class="btn btn-primary" style="width: 200px;" data-toggle="modal" data-target="#dialogo1" name="modal">Add Customer</button></div>
       </div>
 
         <div class="modal fade" id="dialogo1">

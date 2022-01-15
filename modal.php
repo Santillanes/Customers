@@ -20,6 +20,8 @@
 		
 		$resultado = mysqli_query($conexion,$sql);
 
+		require 'update.php';
+
 		//$customer -> insertar($name, $address, $phone, $email);
 
 		//Se muestra la tabla

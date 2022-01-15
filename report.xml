@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+  <Customer>
+    <idcustomer>1</idcustomer>
+    <name>Luis Santillanes</name>
+    <address>Calle Benito Juárez #323</address>
+    <phonenum>6141102343</phonenum>
+    <email>luis.santillanes@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>2</idcustomer>
+    <name>Carlos Loya</name>
+    <address>Calle Venustiano Carranza #221</address>
+    <phonenum>6141150394</phonenum>
+    <email>carlos.loya@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>5</idcustomer>
+    <name>Maria Díaz</name>
+    <address>Calle Miguel Hidalgo #101</address>
+    <phonenum>6141125489</phonenum>
+    <email>maria.diaz@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>6</idcustomer>
+    <name>Jesús Amparán</name>
+    <address>Calle Olivos #112</address>
+    <phonenum>6141019288</phonenum>
+    <email>jesus.amparan@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>7</idcustomer>
+    <name>Angélica Casas</name>
+    <address>Calle Girasoles #331</address>
+    <phonenum>6141150393</phonenum>
+    <email>angelica.casas@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>8</idcustomer>
+    <name>Guadalupe López</name>
+    <address>Calle Amapolas #112</address>
+    <phonenum>6141194323</phonenum>
+    <email>guadalupe.lopez@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>9</idcustomer>
+    <name>Manuel Rios</name>
+    <address>Calle 20 Sur #174</address>
+    <phonenum>6141019876</phonenum>
+    <email>manuel.rios@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>10</idcustomer>
+    <name>Eber Moreno</name>
+    <address>Calle 12 Poniente #97</address>
+    <phonenum>6141049823</phonenum>
+    <email>eber.moreno@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>11</idcustomer>
+    <name>Andres Araujo</name>
+    <address>Calle 11 Sur #230</address>
+    <phonenum>6141016774</phonenum>
+    <email>andres.araujo@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>12</idcustomer>
+    <name>Rubén Hernández</name>
+    <address>Calle 19 Norte #310</address>
+    <phonenum>6141009482</phonenum>
+    <email>ruben.hernandez@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>13</idcustomer>
+    <name>Luis Santillanes</name>
+    <address>Delicias</address>
+    <phonenum>13131342</phonenum>
+    <email>luis@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>14</idcustomer>
+    <name>Saúl Morales</name>
+    <address>Calle 12 Oriente #191</address>
+    <phonenum>6141998372</phonenum>
+    <email>saul.morales@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>15</idcustomer>
+    <name>Natalia Melendez</name>
+    <address>Calle Manuel Ojinaga #240</address>
+    <phonenum>6141109873</phonenum>
+    <email>nat.mel@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>16</idcustomer>
+    <name>Alejandro Díaz</name>
+    <address>Av. 10 pte #189</address>
+    <phonenum>6141158273</phonenum>
+    <email>alex.diaz@gmail.com</email>
+  </Customer>
+  <Customer>
+    <idcustomer>17</idcustomer>
+    <name>Alan Serna</name>
+    <address>Calle Camargo #292</address>
+    <phonenum>6141127883</phonenum>
+    <email>alan.serna@gmail.com</email>
+  </Customer>
+</customers>
